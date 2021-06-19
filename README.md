@@ -36,7 +36,7 @@
 ✔ <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m *currently learning* how to **flex README** on my **profile** 💪. <br>
 ✔ <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="20vw" /> I’m *looking to collaborate* on **python 🐍 projects**. <br>
 ✔ <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> I’m *looking* for *help* with **wifi connection 🌐** <br>
-✔ <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="20vw" /> *Talk to me* about **different cultures and their drama series.** <br>
+✔ <img alt="GIF" src="https://emojis.slackmojis.com/emojis/images/1568064900/6383/meow-popcorn.gif?1568064900" width="20vw" /> *Talk to me* about **different cultures and their drama 🤩 series.** <br>
 ✔ <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20vw" /> **Pronouns:** [*She/Her*](https://pronoun.is/he) 🧔 <br>
 ✔ <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20vw" /> **Fun fact:** My *smartness* 💡 lies in my *laziness* 😴 <br><br><br><br>
 
