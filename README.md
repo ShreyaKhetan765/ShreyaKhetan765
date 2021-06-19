@@ -5,23 +5,23 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">, I'm Shreya Khetan </h1>
 <h3 align="center"> B-Tech (CSE) at NIT Rourkela | Content Writer | Graphic Designing Enthusiast</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/shreya-khetan-9b6255a8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shreya-khetan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shreya-khetan-9b6255a8" target="blank"><img alt="linkedin" width="8%" style="padding:5px" src="https://img.icons8.com/nolan/512/linkedin.png"/></a>
 <a href="https://www.facebook.com/shreya.khetan.3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="shreya khetan" height="30" width="40" /></a>
-<a href="https://www.instagram.com/khetan.shreya/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="khetan.shreya" height="30" width="40" /></a>
+<a href="https://www.instagram.com/khetan.shreya/" target="blank"><img alt="instagram" width="8%" style="padding:5px" src="https://img.icons8.com/nolan/512/instagram-new.png" /></a>
  <a href = "mailto: khetanshreya1@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
 </p>
 
 
-
 <p align="center">
   <em>
     This is ME, Shreya Khetan, a <b>first year</b> undergraduate from <a href="https://www.nitrkl.ac.in/"> <b>National Institute of Technology</b>, Rourkela</a>. <br>
-    A budding <b>Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    A budding <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Design    Enthusiast,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
     with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
-  </em> 
+    <b>excel.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
+  </em>  
+
   <br>
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
@@ -32,9 +32,9 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
 
-✔ <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="20vw" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻 <br>
+✔ <img alt="GIF" src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" width="20vw" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻 <br>
 ✔ <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m *currently learning* how to **flex README** on my **profile** 💪. <br>
-✔ <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="20vw" /> I’m *looking to collaborate* on **python 🐍 projects**. <br>
+✔ <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="20vw" /> I’m *looking to collaborate* on **java ☕  projects**. <br>
 ✔ <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> I’m *looking* for *help* with **wifi connection 🌐** <br>
 ✔ <img alt="GIF" src="https://emojis.slackmojis.com/emojis/images/1568064900/6383/meow-popcorn.gif?1568064900" width="20vw" /> *Talk to me* about **different cultures and their drama 🤩  series.** <br>
 ✔ <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20vw" /> **Pronouns:** [*She/Her*](https://pronoun.is/he)  🙋‍♀️ <br>
