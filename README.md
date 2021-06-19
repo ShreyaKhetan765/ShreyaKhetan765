@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.linkpicture.com/view.php?img=LPic60cde9a40c6cb642801400" height="200"/>
+  <img src="<a href="https://www.linkpicture.com/view.php?img=LPic60cde9a40c6cb642801400"><img src="https://www.linkpicture.com/q/WhatsApp-Image-2021-06-19-at-5.55.50-AM.jpeg" type="image"></a>" height="200"/>
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Shreya Khetan </h1>
