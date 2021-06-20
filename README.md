@@ -15,10 +15,10 @@
 <p align="center">
   <em>
     This is ME, Shreya Khetan, a <b>first year</b> undergraduate from <a href="https://www.nitrkl.ac.in/"> <b>National Institute of Technology</b>, Rourkela</a>. <br>
-    A budding <b>Software Developer</b> <img src="https://s6.gifyu.com/images/Developer.gif" width="30px"> and a <b>Design    Enthusiast,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
+    A budding <b>Software Developer</b> <img src="https://s6.gifyu.com/images/Developer.gif" width="30px"> and a <b>Design    Enthusiast,</b>&nbsp;<img src="https://s6.gifyu.com/images/Designer.gif" width="36px">  who is <b>obsessed</b>
     with the idea of <b>improving</b> herself and wants a <b>platform</b> to
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and
-    <b>excel.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
+    <b>grow</b> <img src="https://s6.gifyu.com/images/Rocket20b4e32a01371779.gif" width="18px">and
+    <b>excel.</b> <img src="https://s6.gifyu.com/images/Medal.gif" width="20px">
   </em>  
 
   <br>
