@@ -5,7 +5,7 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">, I'm Shreya Khetan </h1>
 <h3 align="center"> B-Tech (CSE) at NIT Rourkela | Content Writer | Graphic Designing Enthusiast</h3>
 
-<p align="center">
+<p>
 <a href="https://www.linkedin.com/in/shreya-khetan-9b6255a8" target="blank"><img src="https://img.icons8.com/nolan/512/linkedin.png" alt="shreua-khetan" height="30" width="40" /></a>
   
 <a href="https://www.facebook.com/shreya.khetan.3" target="blank"><img src="https://img.icons8.com/clouds/100/000000/facebook-new.png" alt="shreya.khetan.3" height="30" width="40" /></a>
