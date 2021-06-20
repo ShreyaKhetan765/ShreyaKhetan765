@@ -14,7 +14,7 @@
   
  <a href = "mailto: khetanshreya1@gmail.com"><img src="https://img.icons8.com/nolan/512/gmail.png" height="30" width="40" /></a>
 </p>
-</p>
+
 
 
 
