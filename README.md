@@ -11,7 +11,7 @@
 <a href="https://www.instagram.com/khetan.shreya/"><img align="center" alt="instagram" width="8%" style="padding:5px" src="https://img.icons8.com/nolan/512/instagram-new.png"/></a>
 <a href="mailto: khetanshreya1@gmail.com"><img align="center" alt="gmail" width="8%" style="padding:5px" src="https://img.icons8.com/nolan/512/gmail.png"/></a>
 </p>
-</p>
+
 <p align="center">
   <em>
     This is ME, Shreya Khetan, a <b>first year</b> undergraduate from <a href="https://www.nitrkl.ac.in/"> <b>National Institute of Technology</b>, Rourkela</a>. <br>
