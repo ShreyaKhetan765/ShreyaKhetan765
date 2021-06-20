@@ -6,13 +6,13 @@
 <h3 align="center"> B-Tech (CSE) at NIT Rourkela | Content Writer | Graphic Designing Enthusiast</h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/shreya-khetan-9b6255a8" target="blank"><img align="center" src="https://img.icons8.com/nolan/512/linkedin.png" alt="aksia" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shreya-khetan-9b6255a8" target="blank"><img src="https://img.icons8.com/nolan/512/linkedin.png" alt="shreua-khetan" height="30" width="40" /></a>
   
-<a href="https://www.facebook.com/shreya.khetan.3" target="blank"><img align="center" src="https://img.icons8.com/clouds/100/000000/facebook-new.png" alt="akash chowrasia" height="30" width="40" /></a>
+<a href="https://www.facebook.com/shreya.khetan.3" target="blank"><img src="https://img.icons8.com/clouds/100/000000/facebook-new.png" alt="shreya.khetan.3" height="30" width="40" /></a>
   
-<a href="https://www.instagram.com/khetan.shreya/" target="blank"><img align="center" src="https://img.icons8.com/nolan/512/instagram-new.png" alt="khetan.shreya" height="30" width="40" /></a>
+<a href="https://www.instagram.com/khetan.shreya/" target="blank"><img src="https://img.icons8.com/nolan/512/instagram-new.png" alt="khetan.shreya" height="30" width="40" /></a>
   
- <a href = "mailto: khetanshreya1@gmail.com"><img align="center" src="https://img.icons8.com/nolan/512/gmail.png" height="30" width="40" /></a>
+ <a href = "mailto: khetanshreya1@gmail.com"><img src="https://img.icons8.com/nolan/512/gmail.png" height="30" width="40" /></a>
 </p>
 </p>
 
