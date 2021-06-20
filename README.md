@@ -2,7 +2,7 @@
   <img src="https://www.linkpicture.com/q/shreya-github_1.jpeg" type="image"></a>
 </p>
 <hr>
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">, I'm Shreya Khetan </h1>
+<h1 align="center">Hi <img src="https://s6.gifyu.com/images/Hi.gif" width="30px">, I'm Shreya Khetan </h1>
 <h3 align="center"> B-Tech (CSE) at NIT Rourkela | Content Writer | Graphic Designing Enthusiast</h3>
 <p align="center"> 
 <a href="https://www.linkedin.com/in/shreya-khetan-9b6255a8"><img alt="linkedin" width="8%" style="padding:5px" src="https://img.icons8.com/nolan/512/linkedin.png"/></a> 
