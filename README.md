@@ -15,7 +15,7 @@
 <p align="center">
   <em>
     This is ME, Shreya Khetan, a <b>first year</b> undergraduate from <a href="https://www.nitrkl.ac.in/"> <b>National Institute of Technology</b>, Rourkela</a>. <br>
-    A budding <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Design    Enthusiast,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
+    A budding <b>Software Developer</b> <img src="https://s6.gifyu.com/images/Developer.gif" width="30px"> and a <b>Design    Enthusiast,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
     with the idea of <b>improving</b> herself and wants a <b>platform</b> to
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and
     <b>excel.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
@@ -31,7 +31,7 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
 
-✔ <img alt="GIF" src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" width="20vw" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻 <br>
+✔ <img alt="GIF" src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" width="20vw" /> I’m *currently* **sleeping** <img alt = "GIF" src= "https://emojis.slackmojis.com/emojis/images/1623631214/44901/zzz_computer.gif?1623631214" width ="20vw" /> or *working* on my **laptop** <img alt = "GIF" src= "https://emojis.slackmojis.com/emojis/images/1586280906/8541/computercat.gif?1586280906" width ="20vw" /> <br>
 ✔ <img alt="GIF" src="https://s6.gifyu.com/images/gandalf_parrot.gif" width="20vw" /> I’m *currently learning* how to **flex README** on my **profile** 💪. <br>
 ✔ <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="20vw" /> I’m *looking to collaborate* on **java ☕  projects**. <br>
 ✔ <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> I’m *looking* for *help* with **wifi connection 🌐** <br>
