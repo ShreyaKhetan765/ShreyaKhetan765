@@ -6,8 +6,9 @@
 <h3 align="center"> B-Tech (CSE) at NIT Rourkela | Content Writer | Graphic Designing Enthusiast</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/shreya-khetan-9b6255a8" target="blank"><img alt="linkedin" width="8%" style="padding:5px" src="https://img.icons8.com/nolan/512/linkedin.png"/></a>
-<a href="https://www.facebook.com/shreya.khetan.3" target="blank"><img alt="facebook" width="8%" style="padding:5px" src="
-https://img.icons8.com/nolan/512/facebook.png" /></a>
+<a href="https://www.facebook.com/shreya.khetan.3" target="blank"><img alt="linkedin" width="8%" style="padding:5px" src="
+https://img.icons8.com/nolan/512/facebook.png"/></a>
+
 <a href="https://www.instagram.com/khetan.shreya/" target="blank"><img alt="instagram" width="8%" style="padding:5px" src="https://img.icons8.com/nolan/512/instagram-new.png" /></a>
  <a href = "mailto: khetanshreya1@gmail.com"><img alt="gmail" width="8%" style="padding:5px" src="https://img.icons8.com/nolan/512/gmail.png
 " /></a>
