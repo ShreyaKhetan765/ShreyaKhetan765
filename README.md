@@ -8,7 +8,7 @@
 
 <a href="https://www.linkedin.com/in/shreya-khetan-9b6255a8"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/nolan/512/linkedin.png"/></a>
 <a href="https://www.facebook.com/shreya.khetan.3"><img alt="facebook" width="8%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
-<a href="https://www.instagram.com/khetan.shreya/"><img alt="instagram" width="8%" style="padding:5px" src="hhttps://img.icons8.com/nolan/512/instagram-new.png"/></a>
+<a href="https://www.instagram.com/khetan.shreya/"><img alt="instagram" width="8%" style="padding:5px" src="https://img.icons8.com/nolan/512/instagram-new.png"/></a>
 <a href="mailto: khetanshreya1@gmail.com"><img alt="gmail" width="8%" style="padding:5px" src="https://img.icons8.com/nolan/512/gmail.png"/></a>
 </p>
 </p>
