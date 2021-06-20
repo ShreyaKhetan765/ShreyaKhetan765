@@ -4,28 +4,20 @@
 <hr>
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">, I'm Shreya Khetan </h1>
 <h3 align="center"> B-Tech (CSE) at NIT Rourkela | Content Writer | Graphic Designing Enthusiast</h3>
+<p align="center">
 
-<p>
-<a href="https://www.linkedin.com/in/shreya-khetan-9b6255a8" target="blank"><img src="https://img.icons8.com/nolan/512/linkedin.png" alt="shreua-khetan" height="30" width="40" /></a>
-  
-<a href="https://www.facebook.com/shreya.khetan.3" target="blank"><img src="https://img.icons8.com/clouds/100/000000/facebook-new.png" alt="shreya.khetan.3" height="30" width="40" /></a>
-  
-<a href="https://www.instagram.com/khetan.shreya/" target="blank"><img src="https://img.icons8.com/nolan/512/instagram-new.png" alt="khetan.shreya" height="30" width="40" /></a>
-  
- <a href = "mailto: khetanshreya1@gmail.com"><img src="https://img.icons8.com/nolan/512/gmail.png" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shreya-khetan-9b6255a8"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/nolan/512/linkedin.png"/></a>
+<a href="https://www.facebook.com/shreya.khetan.3"><img alt="facebook" width="8%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
+<a href="https://www.instagram.com/khetan.shreya/"><img alt="instagram" width="8%" style="padding:5px" src="hhttps://img.icons8.com/nolan/512/instagram-new.png"/></a>
+<a href="mailto: khetanshreya1@gmail.com"><img alt="gmail" width="8%" style="padding:5px" src="https://img.icons8.com/nolan/512/gmail.png"/></a>
 </p>
-
-
-
-
-
-
+</p>
 <p align="center">
   <em>
     This is ME, Shreya Khetan, a <b>first year</b> undergraduate from <a href="https://www.nitrkl.ac.in/"> <b>National Institute of Technology</b>, Rourkela</a>. <br>
     A budding <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Design    Enthusiast,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
-    with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
+    with the idea of <b>improving</b> herself and wants a <b>platform</b> to
+    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and
     <b>excel.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
   </em>  
 
@@ -81,5 +73,4 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 </div>
 
 <hr>
-
 
